@@ -17,7 +17,9 @@ author: joelhmarquez
 description: DACA visualization tools
 ---
 
-Checkout <a href="https://www.joelhmarquez.com/dacaanalytics" target="_blank" ref="noopener">DACA Analytics</a>!
+<div class="alert alert-primary" role="alert">
+  Checkout <a href="https://www.joelhmarquez.com/dacaanalytics" target="_blank" ref="noopener">DACA Analytics</a>!
+</div>
 
 I am always excited to meet and get to know fellow DACA recipients; their stories never cease to amaze me. While I find comfort in the similarities we share in our upbringing, struggles and obstacles to get to where we are, I am equally as excited when learning about our differences. I’ve come to know a large number of Dreamers over the last few years and I have been surprised by the amount of diversity in our community.
 

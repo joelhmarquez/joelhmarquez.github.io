@@ -1,0 +1,17 @@
+current directory: /Users/joelmarquez/joelhmarquez/github/joelhmarquez.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.7.2/lib/ruby/2.7.0 -r ./siteconf20201224-51351-97twj3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/joelmarquez/joelhmarquez/github/joelhmarquez.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/joelmarquez/joelhmarquez/github/joelhmarquez.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby/2.7.2/lib/libruby.2.7.dylib) was built for newer macOS version (11.0) than being linked (10.15.6)
+
+current directory: /Users/joelmarquez/joelhmarquez/github/joelhmarquez.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20201224-51351-1aoohk6

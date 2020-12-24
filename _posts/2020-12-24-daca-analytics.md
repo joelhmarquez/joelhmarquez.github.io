@@ -25,7 +25,7 @@ I am always excited to meet and get to know fellow DACA recipients; their storie
 
 My curiosity has led me to reading through the quarterly reports that USCIS releases which highlight population and performance statistics relating to the DACA program. Not getting enough clarity from the pdf files provided, I decided to create an interactive data visualization tool to present the data in such a way that is easy to understand and that allows us to easily compare the statistics year-to-year.
 
-<a href="https://www.joelhmarquez.com/dacaanalytics" target="_blank" ref="noopener">DACA Analytics</a> provides several a variety of visualizations of the USCIS data. It is split into two main sections: population and performance data.
+<a href="https://www.joelhmarquez.com/dacaanalytics" target="_blank" ref="noopener">DACA Analytics</a> provides a variety of visualizations of the USCIS data. It is split into two main sections: population and performance data.
 
 The population data includes population by age group, sex, marital status, birth country and state of residence. The first three are presented in bar and line graphs that allow us to see the changes from year to year as well as how the values within each category compare to one another. The birth country and state of residence statistics are presented in two different forms. The first is through interactive geomaps in which you could select the year of the dataset to be used. You can then hover over the maps and get a count of population for a given country or state, respectively according to the dataset from the selected year. The second form is through line graphs that allow you to explore the changes in population for a given country or state throughout time.
 

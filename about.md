@@ -11,4 +11,4 @@ layout: page
 
 <h4>As a first-generation college graduate, I am passionate about contributing towards making education accessible to all, especially those who are from historically underrepresented communities.</h4>
 
-<h4>As a Latino and an immigrant, I am passionate about contributing towards the advancement of the Latinx and immigrant communities and towards the advocacy of diversity and inclusion in the tech industry.</h4>
+<h4>As a Latino and an immigrant, I am passionate about contributing towards the advancement of the Latino and immigrant communities and towards the advocacy of diversity and inclusion in the tech industry.</h4>

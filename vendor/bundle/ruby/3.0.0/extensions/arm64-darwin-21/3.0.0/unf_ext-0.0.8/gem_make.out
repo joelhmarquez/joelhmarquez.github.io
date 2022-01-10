@@ -1,0 +1,16 @@
+current directory: /Users/joelmarquez/joelhmarquez/projects/github/joelhmarquez.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8/ext/unf_ext
+/opt/homebrew/opt/ruby/bin/ruby -I /opt/homebrew/Cellar/ruby/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220109-28284-j5b1tf.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/joelmarquez/joelhmarquez/projects/github/joelhmarquez.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /Users/joelmarquez/joelhmarquez/projects/github/joelhmarquez.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/joelmarquez/joelhmarquez/projects/github/joelhmarquez.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20220109-28284-s5xqvt

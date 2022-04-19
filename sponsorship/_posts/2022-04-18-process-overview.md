@@ -26,7 +26,7 @@ Overall, the employment-based sponsorship process consists of 3 high-level steps
 
 The entire process will be a collaborative process between yourself and your employer, facilitated by your attorney, but generally steps 1 and 2 require actions by your employer while step 3 will require actions performed by you.
 
-The chapters that follow this one will dive deeper into each step, but the following is a high-level overview here is a summary of what each entail.
+The chapters that follow this one will dive deeper into each step, but the following is a high-level overview here of what each entail.
 
 ### PERM Labor Certification
 The first step in the process focuses on determining a need to hire a foreign national. In this step, your employer will provide justification for petitioning a foreign national by performing a U.S. Labor Market Test, proving that there are insufficient U.S. workers who are willing, able and qualified to perform the duties required for the job as well as obtaining a prevailing wage determination from the Department of Labor (DOL), ensuring that at least the prevailing wage is being offered for the position.

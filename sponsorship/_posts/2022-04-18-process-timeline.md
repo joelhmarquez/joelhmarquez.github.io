@@ -16,9 +16,9 @@ author: joelhmarquez
 description: DACA Employment-Based Permanent Residency Sponsorship - Process Timeline
 ---
 
-It’s impossible to provide an accurate timeline of what the process will look like from start to finish. There are many variables that are at play which can cause a case to go by faster or slower than another (How long it takes to get supporting documents, how slow/fast your attorneys file your applications, how slow/fast USCIS and DOL process your applications, if you are audited, if there are any immigrant bans issued, etc.).
+It’s impossible to provide an accurate timeline of what the process will look like from start to finish. There are many variables that are at play which can cause a case to go by faster or slower than another (How long it takes to get supporting documents, how slow/fast your attorneys file your applications, how slow/fast USCIS and DOL process your applications, if you are audited, if there are any immigrant bans active at the time of your application, etc.).
 
-With that said, I will provide the timeline of my process to give you an idea of one example of what it may look like, but keep in mind your case may be much faster or slower than mine.
+With that said, I will provide the timeline of my process to give you an idea of one example of what it may look like, but keep in mind your case may be faster or slower than mine.
 
 ## Background info:
 	Job: Software Engineer

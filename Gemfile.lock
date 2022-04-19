@@ -326,6 +326,3 @@ DEPENDENCIES
   jekyll-seo-tag
   jemoji
   webrick (~> 1.7)
-
-BUNDLED WITH
-   1.17.2

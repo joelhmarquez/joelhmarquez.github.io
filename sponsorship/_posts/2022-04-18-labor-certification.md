@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Labor Certification"
 layout: post
-date: 2022-04-18 22:00
+date: 2022-04-18 22:02
 headerImage: false
 tag:
   - DACA

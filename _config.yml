@@ -1,12 +1,12 @@
 # main text of home
 name: Joel Marquez
-bio: Software Engineer 2 @ Microsoft
+bio: Senior Software Engineering Manager @ Microsoft
 
 # github repo
 repository: joelhmarquez/joelhmarquez.github.io
 
 # twitter summary info
-description: Tech, sports, immigration and everything in-between
+description: Random thoughs
 
 # if it's an external image, update below for true
 # better with square images
@@ -58,7 +58,7 @@ linkedin: joelhmarquez/
 authors:
   joelhmarquez:
     name: Joel Marquez
-    bio: Software Engineer 2 @ Microsoft
+    bio: Seniopr Software Engineering Manager @ Microsoft
     external-image: false
     picture: assets/images/profile.jpeg
     twitter: https://twitter.com/joelhmarquez

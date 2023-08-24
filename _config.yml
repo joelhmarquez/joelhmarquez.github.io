@@ -6,7 +6,7 @@ bio: Senior Software Engineering Manager @ Microsoft
 repository: joelhmarquez/joelhmarquez.github.io
 
 # twitter summary info
-description: Random thoughs
+#description: Random thoughs
 
 # if it's an external image, update below for true
 # better with square images
@@ -36,8 +36,8 @@ disqus:
   categories:
 
 # if you don't have any of social below, comment the line
-facebook: joelhmarquez/
-twitter: joelhmarquez
+#facebook: joelhmarquez/
+#twitter: joelhmarquez
 instagram: joelhmarquez/
 linkedin: joelhmarquez/
 # email: myemail
@@ -58,10 +58,10 @@ linkedin: joelhmarquez/
 authors:
   joelhmarquez:
     name: Joel Marquez
-    bio: Seniopr Software Engineering Manager @ Microsoft
+    bio: Senior Software Engineering Manager @ Microsoft
     external-image: false
     picture: assets/images/profile.jpeg
-    twitter: https://twitter.com/joelhmarquez
+    #twitter: https://twitter.com/joelhmarquez
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

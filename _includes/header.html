@@ -1,26 +1,11 @@
-{% if page.title == "Home"
-   or page.title == "Blog"
-   or page.title == "Projects"
-   or page.title == "Tags"
-%}{% assign showHeader = true %}{% endif %}
-
-{% if showHeader == true %}
-    <header class="header-home {% if site.animation %}animated{% endif %}">
-        {% if site.about %}
-            <a class="link" href="{{ site.url }}/about">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </a>
-        {% else %}
-            <span class="link">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </span>
-        {% endif %}
-
-        <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
-
-        {% include social-links.html %}
-    </header>
-{% endif %}
-
-{% include nav.html %}
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.name }}</a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="{{ "/blog" | relative_url }}">Writing</a>
+      <a href="{{ "/sponsorship" | relative_url }}">Sponsorship</a>
+      <a href="{{ "/projects" | relative_url }}">Projects</a>
+      <a href="{{ "/about" | relative_url }}">About</a>
+    </nav>
+  </div>
+</header>

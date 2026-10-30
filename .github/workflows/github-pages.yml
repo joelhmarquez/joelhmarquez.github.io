@@ -2,20 +2,51 @@ name: Build and deploy Jekyll site to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: ["main"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment, but let in-progress production
+# deployments finish.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  github-pages:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/cache@v2
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - uses:  helaili/jekyll-action@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ruby-version: "3.3"
+          bundler-cache: true # runs 'bundle install' with caching
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+      - name: Upload artifact
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

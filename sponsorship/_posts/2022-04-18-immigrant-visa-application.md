@@ -24,8 +24,8 @@ Depending on your case details, you may be able to complete this step via the Ad
 
 One of the requirements for doing AOS within the U.S. is having lawful status, which DACA recipients do not have and therefore, generally DACA recipients are ineligible for AOS and must do Consular Processing in their birth country instead. However, there are certain exceptions that may allow certain DACA beneficiaries to go through AOS even though they do not have lawful status. 
 
-The determination of whether you are eligible for an exception that allows you to do AOS depends on a variety of factors which I won't cover in this handbook (I was not eligible for AOS, so I don’t have any first-hand experience on how to navigate it), but I highly recommend you discuss this with your attorney to see if you may benefit from an exception that allows you to do so.
-AOS is much easier and safer than doing consular processing (you don't have to leave the U.S. and risk getting stuck outside the country) so if you are eligible, I highly recommend you go that route. In my case, I did not qualify for any of the relief programs to allow me to do AOS and therefore I went through consular processing which is the experience I’ll share below.
+The determination of whether you are eligible for an exception that allows you to do AOS depends on a variety of factors which won't be covered in this handbook, but I highly recommend you discuss this with your attorney to see if you may benefit from an exception that allows you to do so.
+AOS is much easier and safer than doing consular processing (you don't have to leave the U.S. and risk getting stuck outside the country) so if you are eligible, I highly recommend you go that route. This handbook focuses on the consular processing route, which is the path most DACA recipients will take.
 
 ## DS-260 Immigrant Visa Electronic Application
 The first part of this process entails filling out an immigrant visa application online and submitting your supporting evidence (see documents list below). This application will ask you a variety of questions (see sample application in relevant links to see specific questions) related to your personal information (names, addresses, social media handles, family info, etc.), immigration information (previous U.S. travel, violations of U.S. immigration, etc.), work and education information (names, dates, etc), and security information (yes/no questions about your criminal history). As you fill this out, you should work with your attorney to clarify any questions you may have and get guidance on answering the questions accurately.
@@ -34,9 +34,9 @@ Once your application is submitted and your supporting documents are delivered t
 
 There is no specific timeline for when an interview will be scheduled. This will depend on a variety of factors such whether the visa bulletin date for your country of birth and category is current, whether interview dates are available, whether there are any immigrant bans that you are affected by, etc.
 
-In my case, I had to wait out the immigrant travel ban that President Trump created and which President Biden left in place until it finally expired a year later after which I had to wait through the delays that it caused which resulted in about a 1.5-year gap between being documentarily complete and having an interview date scheduled.
+Historically, events like immigrant travel bans and consulate closures have created gaps of a year or more between being documentarily complete and having an interview date scheduled, so be prepared for the possibility of a long wait at this stage.
 
-The next chapter includes my full timeline to be used as an example, however, keep in mind that each step may vary quite a bit so your process may be faster or slower than mine.
+The next chapter outlines an illustrative timeline for the process as a whole; keep in mind that each step may vary quite a bit, so your process may be faster or slower than the example.
 
 ## Consular processing
 Once an interview is scheduled for you, the final part of the process is returning to your country of birth to complete the consular processing process.
@@ -47,19 +47,19 @@ There are three major steps to this process:
 3.	Immigrant Visa Interview
 
 ### Medical Examination
-The medical examination portion will determine if there are any health-related issues which may make you inadmissible. The exam consists of a physical examination, questioning on your medical history and drug/alcohol use and may require a mental health screening (I'm not sure under which conditions the mental health screening is required, I was not asked to do it, but did see others around me asked to do so.)
+The medical examination portion will determine if there are any health-related issues which may make you inadmissible. The exam consists of a physical examination, questioning on your medical history and drug/alcohol use and may require a mental health screening (the conditions under which the mental health screening is required vary, and some applicants are asked to complete one).
 
 ### Biometric Appointment
 The biometric appointment, as the name implies, entails gathering your biometric information. This includes fingerprinting, photographing and confirming of personal details (name, DOB, etc.). You will also leave behind your passport at this step, it will be returned to you after the final step, the immigrant visa interview. 
 
 ### Immigrant Visa Interview
 The final part of the consular processing process is the immigrant visa interview.
-During the interview, you will have a 1:1 conversation with an immigration agent who will examine your application and validate its legitimacy. There is no exact format or template for the questions asked, so your experience may vary from mine, but generally the interviews are quite short (mine was around 10-15 minutes total). I'll include some of the questions that I was asked in the FAQ chapter, but in general the questions will be relating to your answers to the DS-260 application, your employer, the job you're being sponsored for and your qualifications.
+During the interview, you will have a 1:1 conversation with an immigration agent who will examine your application and validate its legitimacy. There is no exact format or template for the questions asked, so experiences vary, but generally the interviews are quite short. In general the questions will relate to your answers to the DS-260 application, your employer, the job you're being sponsored for and your qualifications.
 
 They will also question your immigration history and look for any issues that may make you inadmissible (multiple unlawful entries, unlawful presence of 6+ months, criminal records, etc.).
 
 At the end of your interview, you will be told whether you are approved or denied.
-If you are approved, an immigrant visa will be stamped on your passport and your passport will be returned to you at a later date (it took 5 days for mine to be ready). The visa on your passport will allow you to return to the U.S. and upon your entry, you will become a U.S. permanent resident and will be able to use the stamped visa on your passport as a temporary green card until your green card arrives in the mail sometime later.
+If you are approved, an immigrant visa will be stamped on your passport and your passport will be returned to you at a later date. The visa on your passport will allow you to return to the U.S. and upon your entry, you will become a U.S. permanent resident and will be able to use the stamped visa on your passport as a temporary green card until your green card arrives in the mail sometime later.
 
 
 ## Documents Needed
@@ -116,8 +116,8 @@ The following are documents you *may* need as supporting documents for your DS-2
 
 ## Tips
 -	Make note of every address that you’ve ever lived in and the relevant dates (start/end). Save this somewhere accessible since it comes up frequently (it’s also useful to have in general if you ever need a background check).
--	If possible, try to have all the immunizations required done prior to your medical exam. The clinic where I did my medical exam provided immunizations if you were missing any, but they were pricy. If you went through a U.S. public school system, chances are you already have most, if not all of them covered. 
--	If your attorney determines you need a police certificate from your country of birth (or any other country you may have lived in), investigate what the process is for obtaining one. I never ended up using mine, but I did get one from my country of birth just in case and it was quite an extensive process that involved getting help from my country of birth’s consulate and relatives in my country of birth (to retrieve the physical document and mail it to me).
+-	If possible, try to have all the immunizations required done prior to your medical exam. Clinics may provide immunizations if you are missing any, but they can be pricey. If you went through a U.S. public school system, chances are you already have most, if not all of them covered. 
+-	If your attorney determines you need a police certificate from your country of birth (or any other country you may have lived in), investigate what the process is for obtaining one. It can be quite an extensive process, sometimes involving your country's consulate, so start early; it is worth having one just in case, even if it never ends up being used.
 
 
 

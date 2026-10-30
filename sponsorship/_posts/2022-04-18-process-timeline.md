@@ -16,37 +16,23 @@ author: joelhmarquez
 description: DACA Employment-Based Permanent Residency Sponsorship - Process Timeline
 ---
 
-It’s impossible to provide an accurate timeline of what the process will look like from start to finish. There are many variables that are at play which can cause a case to go by faster or slower than another (How long it takes to get supporting documents, how slow/fast your attorneys file your applications, how slow/fast USCIS and DOL process your applications, if you are audited, if there are any immigrant bans active at the time of your application, etc.).
+It's impossible to provide an accurate timeline of what the process will look like from start to finish. There are many variables at play which can cause a case to go by faster or slower than another (how long it takes to get supporting documents, how slow/fast your attorneys file your applications, how slow/fast USCIS and DOL process your applications, if you are audited, if there are any immigrant bans active at the time of your application, etc.).
 
-With that said, I will provide the timeline of my process to give you an idea of one example of what it may look like, but keep in mind your case may be faster or slower than mine.
+With that said, what follows is an *illustrative* timeline — the stages in order, with the range of durations applicants commonly experience at each one — to give you an idea of what the process may look like. Keep in mind your case may be faster or slower.
 
-## Background info:
-	Job: Software Engineer
-	Sponsorship Category: EB3
-	DACA status: Continuous since 16 years old (no unlawful presence accrued)
-	
-## Sponsorship process timeline:
-
-### Labor Market Test
-	Started: November 2018
+### Labor Market Test / PERM preparation
+Commonly 2-4 months of recruitment and preparation before the PERM can be filed.
 
 ### PERM
-	Filed: March 2019
-	Approved: May 2019
+Commonly 6-12 months for a decision, and longer if the case is audited.
 
 ### I-140
-	Filed (expedited): July 2019
-	Approved: July 2019
+About two weeks with premium (expedited) processing; several months without it.
 
-### DS-260
-	Submitted: December 2019
-	Accepted: January 2020
+### DS-260 / Consular Processing
+After the National Visa Center accepts your documents, interview scheduling depends on the consulate and on your priority date being current. This stage has historically varied from a few months to well over a year when backlogs hit — bans and consulate closures have stretched it considerably for many applicants.
 
-### Consular Processing
-	Interview (approved): August 2021
-	Immigrant visa issued: August 2021
-	Passport stamped @ US border (officially became a permanent resident): August 2021
-	Received green card in mail: September 2021
+For current numbers, check the official processing-times pages linked below; they will always be more accurate than any single example.
 
 ## Relevant Links and Further Reading
 - [DOL: PERM Processing Times](https://flag.dol.gov/processingtimes)

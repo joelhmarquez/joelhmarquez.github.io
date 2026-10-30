@@ -7,8 +7,8 @@ layout: page
 
 <br>
 
-<p>As a software engineer and technology enthusiast, I am passionate about utilizing technology as a tool to help solve the world’s leading problems and to improve the quality of life of everyone on the planet.</p>
+I'm Joel Marquez, a Principal Engineering Manager at Microsoft, where I lead a team building agentic AI and voice systems. I've been at Microsoft since 2018, when I joined as a new-grad software engineer; these days most of my work circles a question I find endlessly interesting: how do software agents become trustworthy enough to do consequential work?
 
-<p>As a first-generation college graduate, I am passionate about contributing towards making education accessible to all, especially those who are from historically underrepresented communities.</p>
+I came to this country as a kid and went through DACA before earning permanent residency through employment-based sponsorship. That process changed my life, so I wrote it down: the Sponsorship Handbook on this site is my attempt to hand the next person the map I didn't have.
 
-<p>As a Latino and an immigrant, I am passionate about contributing towards the advancement of the Latino and immigrant communities and towards the advocacy of diversity and inclusion in the tech industry.</p>
+I'm a first-generation college graduate (computer science, University of Colorado Boulder) and I live in the Denver area. Outside of work I run — and lately I write. This site is where my essays live: mostly about agents, engineering leadership, and what I'm learning as I go.

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<section class="hero">
+  <img class="hero-photo" src="{{ site.picture | relative_url }}" alt="{{ site.name }}">
+  <h1 class="hero-name">{{ site.name }}</h1>
+  <p class="hero-bio">{{ site.bio }}</p>
+  <p class="hero-links">
+    {% if site.linkedin %}<a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
+    {% if site.instagram %}<a href="https://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">Instagram</a>{% endif %}
+    <a href="{{ "/about" | relative_url }}">About me</a>
+  </p>
+</section>
+
+<section class="feature">
+  <h2 class="section-title">The Sponsorship Handbook</h2>
+  <p class="section-intro">
+    A practical handbook on going from DACA to permanent residency through
+    employment-based sponsorship — the process I went through myself,
+    documented step by step.
+  </p>
+  <p>
+    <a class="text-link" href="{{ "/sponsorship" | relative_url }}">Browse the handbook chapters →</a><br>
+    <a class="text-link" href="{{ "/sponsorship-handbook" | relative_url }}">Or start with the overview →</a>
+  </p>
+</section>
+
+<section class="home-section">
+  <h2 class="section-title">All writing</h2>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% include post-list-item.html post=post %}
+    {% endfor %}
+  </ul>
+</section>

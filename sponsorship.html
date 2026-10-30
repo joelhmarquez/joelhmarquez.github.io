@@ -1,31 +1,21 @@
 ---
-# blog page must be named index.html and in its own folder to support pagination
-# https://jekyllrb.com/docs/pagination/
 layout: page
-title: Blog
-pagination:
-  enabled: true
+title: Sponsorship Handbook
 ---
-<section class="list">
-	{% if site.categories.sponsorship.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
-	{% elsif site.pagination.enabled %}
-		{% for post in paginator.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-
-		{% include pagination.html%}
-	{% else %}
-		{% for post in site.categories.sponsorship %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-	{% endif %}
-</section>
+<p class="section-intro">
+  A practical handbook on going from DACA to permanent residency through
+  employment-based sponsorship, based on my own experience. The chapters
+  below follow the process in order.
+</p>
+{% if site.categories.sponsorship.size == 0 %}
+  <p>Nothing published yet!</p>
+{% else %}
+  <ul class="post-list">
+    {% assign chapters = site.categories.sponsorship | sort: "date" %}
+    {% for post in chapters %}
+      {% if post.hidden != true %}
+        {% include post-list-item.html post=post %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}

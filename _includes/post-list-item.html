@@ -1,0 +1,9 @@
+<li class="post-list-item">
+  <a class="post-list-link" href="{{ include.post.url | relative_url }}">
+    <span class="post-list-meta">
+      <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%b %-d, %Y" }}</time>
+    </span>
+    <span class="post-list-title">{{ include.post.title }}</span>
+    {% if include.post.description %}<span class="post-list-desc">{{ include.post.description }}</span>{% endif %}
+  </a>
+</li>

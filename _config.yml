@@ -39,22 +39,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-# Analytics: the old Universal Analytics property was removed entirely —
-# Google shut down Universal Analytics in 2023, so it collected nothing.
-# To add privacy-friendly stats later, sign up for Cloudflare Web
-# Analytics, paste its token below, and uncomment the snippet in
-# _includes/head.html.
-# cloudflare_analytics_token: ""
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - vendor
-  - node_modules
-  # Retired Jekflix-era leftovers: still in the repo (the connector used for
-  # this rebuild cannot delete files) but kept out of the built site.
-  - FAQ.md
-  - Rakefile
-  - script
-  - _config-dev.yml
+# Analytics: Google Analytics 4 ("Portfolio Site - GA4" property).
+# The old Universal Analytics property was removed entirely - Google shut
+# down Universal Analytics in 2023, so it collected nothing.
+google_analytics: "G-0NR43LTQT8"

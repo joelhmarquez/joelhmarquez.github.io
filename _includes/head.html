@@ -14,12 +14,14 @@
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | relative_url }}">
 
-  {% comment %}
-    Cloudflare Web Analytics (privacy-friendly, no cookies):
-    sign up at cloudflare.com/web-analytics, set cloudflare_analytics_token
-    in _config.yml, then uncomment the script below.
-  {% endcomment %}
-  {% if site.cloudflare_analytics_token %}
-  <!-- <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.cloudflare_analytics_token }}"}'></script> -->
+  {% if site.google_analytics %}
+  <!-- Google Analytics (GA4) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
   {% endif %}
 </head>

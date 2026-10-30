@@ -1,0 +1,25 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="{{ site.name }}">
+  <meta name="color-scheme" content="light dark">
+
+  {% seo %}
+
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/images/favicon/favicon-32x32.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/images/favicon/favicon-16x16.png" | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ "/assets/images/favicon/apple-touch-icon.png" | relative_url }}">
+  <link rel="shortcut icon" href="{{ "/assets/images/favicon/favicon.ico" | relative_url }}">
+
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | relative_url }}">
+
+  {% comment %}
+    Cloudflare Web Analytics (privacy-friendly, no cookies):
+    sign up at cloudflare.com/web-analytics, set cloudflare_analytics_token
+    in _config.yml, then uncomment the script below.
+  {% endcomment %}
+  {% if site.cloudflare_analytics_token %}
+  <!-- <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.cloudflare_analytics_token }}"}'></script> -->
+  {% endif %}
+</head>

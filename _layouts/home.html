@@ -12,24 +12,8 @@ layout: default
   </p>
 </section>
 
-<section class="feature">
-  <h2 class="section-title">The Sponsorship Handbook</h2>
-  <p class="section-intro">
-    A practical handbook on going from DACA to permanent residency through
-    employment-based sponsorship — the process I went through myself,
-    documented step by step.
-  </p>
-  <p>
-    <a class="text-link" href="{{ "/sponsorship" | relative_url }}">Browse the handbook chapters →</a><br>
-    <a class="text-link" href="{{ "/sponsorship-handbook" | relative_url }}">Or start with the overview →</a>
-  </p>
-</section>
 
 <section class="home-section">
   <h2 class="section-title">All writing</h2>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      {% include post-list-item.html post=post %}
-    {% endfor %}
-  </ul>
+  {% include writing-list.html %}
 </section>

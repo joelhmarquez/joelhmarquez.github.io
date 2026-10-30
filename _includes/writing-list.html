@@ -1,0 +1,11 @@
+<ul class="post-list">
+  {% assign series_sorted = site.data.series | sort: "date" | reverse %}
+  {% for s in series_sorted %}
+    {% include post-list-item.html post=s %}
+  {% endfor %}
+  {% for post in site.categories.blogs %}
+    {% if post.hidden != true %}
+      {% include post-list-item.html post=post %}
+    {% endif %}
+  {% endfor %}
+</ul>

@@ -2,14 +2,4 @@
 layout: page
 title: Blog
 ---
-{% if site.categories.blogs.size == 0 %}
-  <p>Nothing published yet!</p>
-{% else %}
-  <ul class="post-list">
-    {% for post in site.categories.blogs %}
-      {% if post.hidden != true %}
-        {% include post-list-item.html post=post %}
-      {% endif %}
-    {% endfor %}
-  </ul>
-{% endif %}
+{% include writing-list.html %}

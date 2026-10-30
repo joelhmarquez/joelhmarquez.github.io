@@ -13,6 +13,8 @@ tag:
   - I140
   - DS260
 category: blog
+hidden: true
+redirect_to: /sponsorship/
 author: joelhmarquez
 description: From DACA to permanent resident via employment based sponsorship. A practical handbook.
 ---

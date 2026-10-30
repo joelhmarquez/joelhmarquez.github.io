@@ -1,0 +1,11 @@
+# Series registry. Each entry renders as ONE line item in the Blog index
+# and in the homepage "All writing" list, linking to the series landing
+# page (intro + chapters in reading order). To add a series:
+#   1. Create its landing page (copy sponsorship.html; set the title,
+#      intro text, and the category its chapters carry).
+#   2. Put the chapters in <series>/_posts with that category.
+#   3. Add an entry here: title, url, date, description.
+- title: "Sponsorship Handbook"
+  url: /sponsorship/
+  date: 2022-04-18
+  description: "A practical handbook on going from DACA to permanent residency through employment-based sponsorship."

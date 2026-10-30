@@ -1,14 +1,9 @@
 ---
 layout: default
-permalink: /404.html 
+permalink: /404.html
 ---
-
 <section class="lost-container">
   <h1>Uh oh!</h1>
-  <div class="link">
-    <img class="selfie" alt="{{ site.name }}" src="{{ site.url }}/assets/images/error.gif" />
-  </div>
-  <br />
-  <br />
-  <a href="/">Take me home!</a>
+  <p><img class="lost-image" alt="{{ site.name }}" src="{{ "/assets/images/error.gif" | relative_url }}"></p>
+  <p><a href="{{ "/" | relative_url }}">Take me home!</a></p>
 </section>
